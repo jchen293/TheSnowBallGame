@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E3EF6E53-88BE-20EB-65C7-C65330B49779}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TapController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TapController.cs" Line="71" Column="9" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="53" Column="17" />
+      <File FileName="Assets/Scripts/CountDownText.cs" Line="16" Column="12" />
+      <File FileName="Assets/Scripts/Parallaxer.cs" Line="133" Column="10" />
+      <File FileName="Assets/Scripts/ScoreText.cs" Line="15" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
