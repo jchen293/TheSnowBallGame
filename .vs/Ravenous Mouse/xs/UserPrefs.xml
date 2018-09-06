@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{A379AC6F-2EB9-F2F7-4095-9E00E78DFBDA}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Rock4Pooler.cs">
+    <Files>
+      <File FileName="Assets/Script/Prefabs.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/ObjectPooler.cs" Line="69" Column="1" />
+      <File FileName="Assets/Script/rockGeneration.cs" Line="17" Column="1" />
+      <File FileName="Assets/Script/Rock4Pooler.cs" Line="89" Column="49" />
+      <File FileName="Assets/Script/HighScoreFor4Lines.cs" Line="26" Column="1" />
+      <File FileName="Assets/Script/GameManageFor4Lines.cs" Line="44" Column="1" />
+      <File FileName="Assets/Script/Rock4rightButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Rock4leftButton.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
